@@ -17,7 +17,7 @@ tags:: #pro/code, #Meeps
 
 ### Update 2 - Moody Blues
 ---
-<u>Collection des message et recensement des channels</u>
+<u>Collection des message et recensement des channels</u> <br />
 Meeps doit être en mesure d'intégrer les messages du serveur entier dans la base de donnée qui sera en partie générée pour l'occasion (seule la **partie bleue** et la table ANG_USER vont être générées).
 <img width="537" alt="Pasted image 20230206193047" src="https://user-images.githubusercontent.com/110334321/217063614-0326f025-16e3-4e83-8ac3-6e4173af4408.png">
 
@@ -40,7 +40,6 @@ L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités
 ---
 #### **Retour du système d'expérience**
 Le système d'expérience fait son retour, cette fois-ci plus équitable que la fois d'avant. Les joueurs anciens étaient avantagés par rapport aux récents.
-![[Pasted image 20230206193106.png]]
 
 Le système d'expérience va récompenser  les "jeunes" joueurs qui sont plus actifs que des "anciens" joueurs. (Les joueurs anciens seront quand même récompensés pour leur ancienneté).
 
