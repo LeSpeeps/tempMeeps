@@ -17,10 +17,10 @@ tags:: #pro/code, #Meeps
 
 ### Update 2 - Moody Blues
 ---
-<u>Collection des message et recensement des channels</u> <br />
-Meeps doit être en mesure d'intégrer les messages du serveur entier dans la base de donnée qui sera en partie générée pour l'occasion (seule la **partie bleue** et la table ANG_USER vont être générées). <br />
+### Collection des message et recensement des channels <br />
+Meeps doit être en mesure d'intégrer les messages du serveur entier dans la base de données qui sera en partie générée pour l'occasion (seule la **partie bleue** et la table **ANG_USER** vont être générées). <br />
 <img width="537" alt="Pasted image 20230206193047" src="https://user-images.githubusercontent.com/110334321/217063614-0326f025-16e3-4e83-8ac3-6e4173af4408.png">
-
+<br />
 L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités tournent autour de ces derniers, sans les avoir concrètement sur un serveur, c'est difficile de réaliser le reste.
 
 <br />
@@ -39,13 +39,12 @@ L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités
 ###   Update 3 - Gold experience
 ---
 #### **Retour du système d'expérience**
-Le système d'expérience fait son retour, cette fois-ci plus équitable que la fois d'avant. Les joueurs anciens étaient avantagés par rapport aux récents.
+Cette fois-ci plus équitable que la fois d'avant, les joueurs récents et actifs auront un bonus pour rattraper les anciens joueurs. (Les joueurs anciens seront quand même récompensés pour leur ancienneté).
 
-Le système d'expérience va récompenser  les "jeunes" joueurs qui sont plus actifs que des "anciens" joueurs. (Les joueurs anciens seront quand même récompensés pour leur ancienneté).
+Eventuellement, il serait intéressant de récompenser les joueurs qui réussisent un iputedemere sur une cible, ou un ifart, .... cette partie est encore en reflexion (vos propositions sont les bienvenues)
+<br />
 
-Eventuellement récompenser les joueurs qui réussisent un iputedemere sur une cible, ou un ifart, .... à réfléchir cette partie est encore en reflexion (vos propositions sont les bienvenues)
-
-Détails du calcul d'expérience (à venir) :
+Nerf : Speeps, Goulth, KreyxT, ....
 - Je vais me renseigner sur le sujet, j'aimerais limiter les trop hauts niveaux (moi, goulth, etc...) et avoir un ensemble de niveau homogène. Donc peut être délibérement grandement amputer nos niveaux et nous donner à contrario un boost d'exp majeur sur une plus long durée.
 
 
