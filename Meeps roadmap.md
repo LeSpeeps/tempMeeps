@@ -6,9 +6,9 @@ tags:: #pro/code, #Meeps
 **Prémices**
 - Réécriture de l'architecture (cogs).
 - Ré-initialisation du serveur.
-- Schéma de la base de données,!
-- [ANG-2023-02-06_14-41](https://user-images.githubusercontent.com/110334321/217063544-5b948258-b480-4506-890d-0c9f0fa7e67b.png)
- première version.
+- Schéma de la base de données !
+![ANG-2023-02-06_14-41](https://user-images.githubusercontent.com/110334321/217063878-fc356e56-472e-4e8d-be7c-c1935a45be9e.png)
+
 *Fait le 05/06/2023*
 
 
@@ -44,6 +44,9 @@ Détails du calcul d'expérience (à venir) :
 
 
 
+
+
+
 ### Update 4 - Wheel of Fortune 
 --- 
 #### Retour du iDaily
@@ -61,12 +64,16 @@ Une **réduction de 25-50% des soldes** en soniums sur l'entiereté des joueurs 
 
 
 
+
+
 ### Update 5 - Weather Forecast
 ---
 #### Retour du module météo et ajout du module info-news.
 Le module météo revient pimpé et plus cohérent, il a vite été délaissé la dernière fois, il prends trop de place et trop d'informations inutilement, il faut le rendre plus subtile.
 
 De plus, un flux d'information continu sera mis en place pour des infos politiques, économiques, technologiques...
+
+
 
 
 
@@ -93,6 +100,8 @@ Exemple de hauts-faits :
 
 
 
+
+
 ### Update XXX (non défini) - Jail House Lock
 ---
 Celle-là va plaire à tout les membres sauf moi. L'ajout d'un casier judiciaire et une augmentation de la puissance du tribunal où les membres seront capables de sanctionner les abus de pouvoir, irrespect. Une amende pourra être sanctionnée et un casier judiciaire sera associé à chaque joueur.
@@ -109,9 +118,14 @@ De très grosses fonctionnalités sont à prévoir cette année :
 - **Un système RPG**: j'ai réussi à mettre la main sur une énorme base de données conçue par des joueurs RPG, dedans on y trouve des tables entières d'objets avec une valeur attribuée. Avec le système de sonium et le système d'expérience, je peux mettre en place une véritable architecture DnD like sur le serveur, mais c'est très long à faire.
 
 
+
+
+
 Refonte du reboot de Meeps :
 --
 Avec le reset journalier ayant lieu à 8h00 tout les matins, ca serait cool d'avoir un ordre du jour qui donne la météo du jour, des news importantes, le sponsor du idaily, et autres...
+
+
 
 
 Mis de côté pour le moment // je ne sais pas à quelle update les greffer:
