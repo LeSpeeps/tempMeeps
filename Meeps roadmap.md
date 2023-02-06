@@ -11,7 +11,9 @@ tags:: #pro/code, #Meeps
 
 *Fait le 05/06/2023*
 
-
+<br />
+<br />
+<br />
 
 ### Update 2 - Moody Blues
 ---
@@ -21,6 +23,8 @@ Meeps doit être en mesure d'intégrer les messages du serveur entier dans la ba
 
 L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités tournent autour de ces derniers, sans les avoir concrètement sur un serveur, c'est difficile de réaliser le reste.
 
+<br />
+
 #### Additionnel.
 --
 - Réimplémentation du iFart, cela nécessite d'étendre la base de données (partie rose).
@@ -28,6 +32,9 @@ L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités
 - 
 
 
+<br />
+<br />
+<br />
 
 ###   Update 3 - Gold experience
 ---
@@ -43,9 +50,9 @@ Détails du calcul d'expérience (à venir) :
 - Je vais me renseigner sur le sujet, j'aimerais limiter les trop hauts niveaux (moi, goulth, etc...) et avoir un ensemble de niveau homogène. Donc peut être délibérement grandement amputer nos niveaux et nous donner à contrario un boost d'exp majeur sur une plus long durée.
 
 
-
-
-
+<br />
+<br />
+<br />
 
 ### Update 4 - Wheel of Fortune 
 --- 
@@ -53,10 +60,11 @@ Détails du calcul d'expérience (à venir) :
 *L'économie du serveur se porte plutôt bien actuellement, après plusieurs reset, cela fait bientôt 1 année que le système a été reset et les joueurs actifs n'atteignent pas des sommes exagérées. Ainsi très peu sera touché du côté du idaily avec son système de sponsor.
 *
 
+<br />
+<br />
 > [!WARNING]
 Une **réduction de 25-50% des soldes** en soniums sur l'entiereté des joueurs est quand même à prévoir afin d'accueillir les prochaines fonctionnalités et éviter un départ trop avancé.
 
-![[Pasted image 20230206193544.png]]
 
 <u>Ce qui se rajoute dans l'économie :</u> 
 - Toute transaction va être traçée, que ce soit en provenance d'un iFart, idaily, iswift... tout sera noté dans la bdd.
@@ -64,6 +72,9 @@ Une **réduction de 25-50% des soldes** en soniums sur l'entiereté des joueurs 
 
 
 
+<br />
+<br />
+<br />
 
 
 ### Update 5 - Weather Forecast
@@ -74,6 +85,9 @@ Le module météo revient pimpé et plus cohérent, il a vite été délaissé l
 De plus, un flux d'information continu sera mis en place pour des infos politiques, économiques, technologiques...
 
 
+<br />
+<br />
+<br />
 
 
 
@@ -85,6 +99,11 @@ On attaque notre première très grosse fonctionnalité sur Meeps qui va le fair
 Meeps interagirait directement avec les utilisateurs pour répondre aux questions, etc...
 
 Actuellement il est prévu de former Meeps seulement sur les messages du discord. Peut être que ca ne sera pas suffisant et faire appel à des données externes 
+
+
+<br />
+<br />
+<br />
 
 
 ### Update 7 - Notorious B.I.G
@@ -99,15 +118,18 @@ Exemple de hauts-faits :
 - ....
 
 
-
-
+<br />
+<br />
+<br />
 
 ### Update XXX (non défini) - Jail House Lock
 ---
 Celle-là va plaire à tout les membres sauf moi. L'ajout d'un casier judiciaire et une augmentation de la puissance du tribunal où les membres seront capables de sanctionner les abus de pouvoir, irrespect. Une amende pourra être sanctionnée et un casier judiciaire sera associé à chaque joueur.
 
 
-
+<br />
+<br />
+<br />
 
 A venir :
 --
@@ -118,14 +140,18 @@ De très grosses fonctionnalités sont à prévoir cette année :
 - **Un système RPG**: j'ai réussi à mettre la main sur une énorme base de données conçue par des joueurs RPG, dedans on y trouve des tables entières d'objets avec une valeur attribuée. Avec le système de sonium et le système d'expérience, je peux mettre en place une véritable architecture DnD like sur le serveur, mais c'est très long à faire.
 
 
-
-
+<br />
+<br />
+<br />
 
 Refonte du reboot de Meeps :
 --
 Avec le reset journalier ayant lieu à 8h00 tout les matins, ca serait cool d'avoir un ordre du jour qui donne la météo du jour, des news importantes, le sponsor du idaily, et autres...
 
 
+<br />
+<br />
+<br />
 
 
 Mis de côté pour le moment // je ne sais pas à quelle update les greffer:
