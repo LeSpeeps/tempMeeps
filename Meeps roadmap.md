@@ -18,7 +18,7 @@ tags:: #pro/code, #Meeps
 ### Update 2 - Moody Blues
 ---
 <u>Collection des message et recensement des channels</u> <br />
-Meeps doit être en mesure d'intégrer les messages du serveur entier dans la base de donnée qui sera en partie générée pour l'occasion (seule la **partie bleue** et la table ANG_USER vont être générées).
+Meeps doit être en mesure d'intégrer les messages du serveur entier dans la base de donnée qui sera en partie générée pour l'occasion (seule la **partie bleue** et la table ANG_USER vont être générées). <br />
 <img width="537" alt="Pasted image 20230206193047" src="https://user-images.githubusercontent.com/110334321/217063614-0326f025-16e3-4e83-8ac3-6e4173af4408.png">
 
 L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités tournent autour de ces derniers, sans les avoir concrètement sur un serveur, c'est difficile de réaliser le reste.
