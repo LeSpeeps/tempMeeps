@@ -6,7 +6,9 @@ tags:: #pro/code, #Meeps
 **Prémices**
 - Réécriture de l'architecture (cogs).
 - Ré-initialisation du serveur.
-- Schéma de la base de données, première version.![[ANG-2023-02-06_14-41.png]]
+- Schéma de la base de données,!
+- [ANG-2023-02-06_14-41](https://user-images.githubusercontent.com/110334321/217063544-5b948258-b480-4506-890d-0c9f0fa7e67b.png)
+ première version.
 *Fait le 05/06/2023*
 
 
@@ -15,13 +17,15 @@ tags:: #pro/code, #Meeps
 ---
 <u>Collection des message et recensement des channels</u>
 Meeps doit être en mesure d'intégrer les messages du serveur entier dans la base de donnée qui sera en partie générée pour l'occasion (seule la **partie bleue** et la table ANG_USER vont être générées).
-![[Pasted image 20230206193047.png]]
+<img width="537" alt="Pasted image 20230206193047" src="https://user-images.githubusercontent.com/110334321/217063614-0326f025-16e3-4e83-8ac3-6e4173af4408.png">
+
 L'idée est de premièrement recenser les messages, beaucoup de fonctionnalités tournent autour de ces derniers, sans les avoir concrètement sur un serveur, c'est difficile de réaliser le reste.
 
 #### Additionnel.
 --
 - Réimplémentation du iFart, cela nécessite d'étendre la base de données (partie rose).
-- Réimplémentation du iputedemere, cela nécessite aussi d'étendre la base de données (partie rose).![[Pasted image 20230206193030.png]]
+- Réimplémentation du iputedemere, cela nécessite aussi d'étendre la base de données (partie rose).
+- 
 
 
 
